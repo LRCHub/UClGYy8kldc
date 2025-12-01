@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Moshi Moshi",
+  "base_artist": "Nozomi Kitay、GAL D",
+  "createdAt": "2025-12-01T03:45:19.971033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moshi Moshi",
+      "artist": "MadeinTYO",
+      "has_synced": true,
+      "path": "select/01_Moshi_Moshi_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moshi Moshi",
+      "artist": "Poppy",
+      "has_synced": true,
+      "path": "select/02_Moshi_Moshi_Poppy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moshi Moshi (Live at Dubin's House)",
+      "artist": "Brand N.E.W.",
+      "has_synced": false,
+      "path": "select/03_Moshi_Moshi_(Live_at_Dubin's_House)_Brand_N.E.W..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moshi Moshi",
+      "artist": "Brand New",
+      "has_synced": true,
+      "path": "select/04_Moshi_Moshi_Brand_New.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moshi Moshi (feat. Pyrxciter & Young zetton)",
+      "artist": "Yung Rare feat. Pyrxciter & Young zetton",
+      "has_synced": true,
+      "path": "select/05_Moshi_Moshi_(feat._Pyrxciter_&_Young_zetton)_Yung_Rare_feat._Pyrxciter_&_Young_zetton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Moshi Moshi (feat. Pyrxciter & Young zetton)",
+      "artist": "Yung Rare",
+      "has_synced": true,
+      "path": "select/06_Moshi_Moshi_(feat._Pyrxciter_&_Young_zetton)_Yung_Rare.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moshi Moshi (acoustic)",
+      "artist": "Brand New",
+      "has_synced": true,
+      "path": "select/07_Moshi_Moshi_(acoustic)_Brand_New.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moshi Moshi (Clarabell Remix)",
+      "artist": "Poppy",
+      "has_synced": false,
+      "path": "select/08_Moshi_Moshi_(Clarabell_Remix)_Poppy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moshi Moshi (Mitch Murder Remix)",
+      "artist": "Poppy",
+      "has_synced": true,
+      "path": "select/09_Moshi_Moshi_(Mitch_Murder_Remix)_Poppy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moshi Moshi (Noboru Remix)",
+      "artist": "Poppy",
+      "has_synced": false,
+      "path": "select/10_Moshi_Moshi_(Noboru_Remix)_Poppy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moshi Moshi (YUTO Remix)",
+      "artist": "Poppy",
+      "has_synced": false,
+      "path": "select/11_Moshi_Moshi_(YUTO_Remix)_Poppy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moshi Moshi Moshi",
+      "artist": "劉錫明",
+      "has_synced": true,
+      "path": "select/12_Moshi_Moshi_Moshi_劉錫明.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "moshi moshi 2",
+      "artist": "Savage Ga$p",
+      "has_synced": true,
+      "path": "select/13_moshi_moshi_2_Savage_Ga$p.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moshi Moshi",
+      "artist": "Savage Ga$p",
+      "has_synced": false,
+      "path": "select/14_Moshi_Moshi_Savage_Ga$p.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Moshi Moshi",
+      "artist": "Nozomi Kitay & GAL D",
+      "has_synced": true,
+      "path": "select/15_Moshi_Moshi_Nozomi_Kitay_&_GAL_D.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Moshi Moshi",
+      "artist": "Nozomi Kitay",
+      "has_synced": true,
+      "path": "select/16_Moshi_Moshi_Nozomi_Kitay.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Moshi Moshi",
+      "artist": "Yung Rare",
+      "has_synced": true,
+      "path": "select/17_Moshi_Moshi_Yung_Rare.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOSHI MOSHI",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_01_MOSHI_MOSHI_Rei.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Moshi Moshi (feat. Mama Aoki)",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_02_Moshi_Moshi_(feat._Mama_Aoki)_Rei.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "MOSHI MOSHI",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_03_MOSHI_MOSHI_Rei.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "moshi moshi",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_04_moshi_moshi_Rei.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "moshi moshi",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_05_moshi_moshi_Rei.txt"
+    }
+  ]
+}
